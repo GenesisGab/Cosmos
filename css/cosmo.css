@@ -19,9 +19,9 @@
 }
 .flecha:hover{
     background-color: #FBAB7E;
-background-image: -webkit-linear-gradient(62deg, #FBAB7E 0%, #F7CE68 100%);
-background-image: -o-linear-gradient(62deg, #FBAB7E 0%, #F7CE68 100%);
-background-image: linear-gradient(152deg, #FBAB7E 0%, #F7CE68 100%);
+    background-image: -webkit-linear-gradient(62deg, #FBAB7E 0%, #F7CE68 100%);
+    background-image: -o-linear-gradient(62deg, #FBAB7E 0%, #F7CE68 100%);
+    background-image: linear-gradient(152deg, #FBAB7E 0%, #F7CE68 100%);
     color: #fff;
 }
 /********************** planetas ********************/
@@ -45,7 +45,7 @@ section{
 }
 .section_1 div:hover{
     background-color: #FF3CAC;
-background-image: linear-gradient(225deg, #FF3CAC 0%, #784BA0 50%, #2B86C5 100%);
+    background-image: linear-gradient(225deg, #FF3CAC 0%, #784BA0 50%, #2B86C5 100%);
     
 }
 .section_2{
@@ -60,11 +60,11 @@ background-image: linear-gradient(225deg, #FF3CAC 0%, #784BA0 50%, #2B86C5 100%)
     margin: 10px 10px 10px 10px;
     border: 1px solid black;
     border-radius: 5px;
-     transition: 0.3s;
+    transition: 0.3s;
 }
 .section_2 div:hover{
     background-color: #FF3CAC;
-background-image: linear-gradient(225deg, #FF3CAC 0%, #784BA0 50%, #2B86C5 100%);
+    background-image: linear-gradient(225deg, #FF3CAC 0%, #784BA0 50%, #2B86C5 100%);
 }
 .section_3{
     display: flex;
@@ -72,7 +72,7 @@ background-image: linear-gradient(225deg, #FF3CAC 0%, #784BA0 50%, #2B86C5 100%)
     justify-content: space-between;    
 }
 .section_3 div{
-     width: 200px;
+    width: 200px;
     height: 200px;
     background-color: #fff;
     margin: 10px 10px 10px 10px;
@@ -82,7 +82,7 @@ background-image: linear-gradient(225deg, #FF3CAC 0%, #784BA0 50%, #2B86C5 100%)
 }
 .section_3 div:hover{
     background-color: #FF3CAC;
-background-image: linear-gradient(225deg, #FF3CAC 0%, #784BA0 50%, #2B86C5 100%);
+    background-image: linear-gradient(225deg, #FF3CAC 0%, #784BA0 50%, #2B86C5 100%);
 }
 /*********************** tamaño de las imagenes ******************************/
 img{
@@ -93,7 +93,6 @@ img{
 .titulo_gal{
     text-align: center;
     color: black;
-    
     font-size: 40px;
     text-align: center;
 }
@@ -101,11 +100,10 @@ img{
     display: flex;
     flex-direction: row;
     justify-content:space-around;  
-    text-align: center;
-      
+    text-align: center;  
 }
 .section_gal div{
-     width: 355px;
+    width: 355px;
     height: 350px;
     background-color: #fff;
     margin: 10px 10px 10px 10px;
@@ -116,20 +114,19 @@ img{
     background-color: beige;
 }
 .bn_mas{
-     width: 80px;
+    width: 80px;
     padding: 10px 40px 10px 40px;
     text-align: center;
     color: #fff;
     text-decoration: none;
     font-size: 15px;
-     background-color: #E06110;
+    background-color: #E06110;
 }
 .bn_mas:hover{
-background-color: #FBAB7E;
-background-image: -webkit-linear-gradient(152deg, #FBAB7E 0%, #F7CE68 100%);
-background-image: -o-linear-gradient(152deg, #FBAB7E 0%, #F7CE68 100%);
-background-image: linear-gradient(242deg, #FBAB7E 0%, #F7CE68 100%);
-
+    background-color: #FBAB7E;
+    background-image: -webkit-linear-gradient(152deg, #FBAB7E 0%, #F7CE68 100%);
+    background-image: -o-linear-gradient(152deg, #FBAB7E 0%, #F7CE68 100%);
+    background-image: linear-gradient(242deg, #FBAB7E 0%, #F7CE68 100%);
     color: #fff;
     width: 120px;
 }
@@ -140,13 +137,13 @@ background-image: linear-gradient(242deg, #FBAB7E 0%, #F7CE68 100%);
     color: #fff;
     text-decoration: none;
     font-size: 15px;
-     background-color: #E06110;
+    background-color: #E06110;
 }
 .bn_mas2:hover{
-background-color: #FBAB7E;
-background-image: -webkit-linear-gradient(152deg, #FBAB7E 0%, #F7CE68 100%);
-background-image: -o-linear-gradient(152deg, #FBAB7E 0%, #F7CE68 100%);
-background-image: linear-gradient(242deg, #FBAB7E 0%, #F7CE68 100%);
+    background-color: #FBAB7E;
+    background-image: -webkit-linear-gradient(152deg, #FBAB7E 0%, #F7CE68 100%);
+    background-image: -o-linear-gradient(152deg, #FBAB7E 0%, #F7CE68 100%);
+    background-image: linear-gradient(242deg, #FBAB7E 0%, #F7CE68 100%);
     color: #fff;
     width: 120px;  
 }
@@ -176,6 +173,5 @@ background-image: linear-gradient(242deg, #FBAB7E 0%, #F7CE68 100%);
 }
 .section_lun div:hover{
     background-color: #f4edf2;
-background-image: linear-gradient(250deg, #f4edf2 0%, #374b4b 100%);
-
+    background-image: linear-gradient(250deg, #f4edf2 0%, #374b4b 100%);
 }

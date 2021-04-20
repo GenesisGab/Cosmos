@@ -5,7 +5,7 @@
 }
 header{
     box-sizing: border-box;
-    border-bottom: 3px solid #4A4242;
+    border-bottom: 1px solid #4A4242;
     padding: 10px 50px 10px 50px;
     background-color: #fff;
 }
@@ -18,8 +18,8 @@ header{
 }
 .flecha:hover{
     background-color: #FBAB7E;
-background-image: -webkit-linear-gradient(62deg, #FBAB7E 0%, #F7CE68 100%);
-background-image: -o-linear-gradient(62deg, #FBAB7E 0%, #F7CE68 100%);
-background-image: linear-gradient(152deg, #FBAB7E 0%, #F7CE68 100%);
+    background-image: -webkit-linear-gradient(242deg, #FBAB7E 0%, #F7CE68 100%);
+    background-image: -o-linear-gradient(242deg, #FBAB7E 0%, #F7CE68 100%);
+    background-image: linear-gradient(332deg, #FBAB7E 0%, #F7CE68 100%);
     color: #fff;
 }
